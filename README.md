@@ -63,8 +63,8 @@ Toolkit for QC, variant calling, and population structure analysis.
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rohit-bar-593427149)
-[![Twitter](https://img.shields.io/badge/Twitter-@rohitgenomics-1DA1F2?style=for-the-badge\&logo=twitter)](https://twitter.com/rohit_bar)
-[![Mail](https://img.shields.io/badge/Email-rohit%40example.com-orange?style=for-the-badge\&logo=gmail)](mailto:rb3@nibmg.ac.in)
+[![Twitter](https://img.shields.io/badge/Twitter-@rohit_bar-1DA1F2?style=for-the-badge\&logo=twitter)](https://twitter.com/rohit_bar)
+[![Mail](https://img.shields.io/badge/Email-rb3@nibmg.ac.in-orange?style=for-the-badge\&logo=gmail)](mailto:rb3@nibmg.ac.in)
 ---
 
 ## 🧰 Tools I Use Daily
