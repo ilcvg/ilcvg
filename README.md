@@ -28,8 +28,8 @@
 ## 🌟 Highlights / Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilcvg&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilcvg&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
