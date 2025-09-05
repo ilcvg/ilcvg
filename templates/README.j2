@@ -1,0 +1,64 @@
+<!-- templates/README.j2 -->
+# Hi there 👋 I'm **{{ name }}**
+
+
+![Header](./assets/header.svg)
+
+
+> {{ bio }}
+
+
+---
+
+
+## 🔭 About me
+
+
+- Location: {{ location | default('—') }}
+- Current focus: {{ focus | default('—') }}
+- Skills: {{ skills | join(', ') }}
+
+
+---
+
+
+## 🌟 Top repositories
+
+
+{%- for repo in top_repos %}
+### [{{ repo.name }}]({{ repo.html_url }})
+`{{ repo.lang }}` • ★ {{ repo.stargazers_count }} • Updated {{ repo.pushed_at.isoformat() }}
+
+
+{{ repo.description or 'No description provided.' }}
+
+
+{%- endfor %}
+
+
+---
+
+
+{% if blog_posts %}
+## 📝 Latest blog posts
+{%- for post in blog_posts[:3] %}
+- [{{ post.title }}]({{ post.link }}) — {{ post.published }}
+{%- endfor %}
+
+
+---
+{% endif %}
+
+
+## 📫 Connect
+
+
+- Email: {{ email | default('—') }}
+- LinkedIn: {{ linkedin | default('—') }}
+- Twitter: {{ twitter | default('—') }}
+
+
+---
+
+
+*Generated on {{ generated_at }}*
