@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-generate_readme.py
-Generate or update README.md using environment variables and (optionally) GitHub API tokens.
+""" generate_readme.py Generate or update README.md using environment variables and (optionally) GitHub API tokens.
 """
 
 from __future__ import annotations
