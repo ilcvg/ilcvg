@@ -9,7 +9,7 @@
 ## 🔭 About Me
 
 * 🧫 I'm currently working on **Antimicrobial Resistance** in **Urinary Tract Infections**.
-.* 🔬 I'm worked on **Polygenic Risk Score pipelines across ancestries**.
+* 🔬 I'm worked on **Polygenic Risk Score pipelines across ancestries**.
 * 🌱 I’m learning **Rust**, **Bayesian machine learning**, and **transfer learning for PRS**.
 * 👯 I’m open to collaborating on **bioinformatics**, **statistical genetics**, and **data visualization** projects.
 * 💬 Ask me about: `Nextflow`, `PLINK`, `Python`, `R`, `GWAS`, and reproducible pipelines.
