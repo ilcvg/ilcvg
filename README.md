@@ -8,11 +8,12 @@
 
 ## 🔭 About Me
 
-* 🔬 I'm currently working on **Polygenic Risk Score pipelines across ancestries**.
+* 🧫 I'm currently working on **Antimicrobial Resistance** in **Urinary Tract Infections**.
+.* 🔬 I'm worked on **Polygenic Risk Score pipelines across ancestries**.
 * 🌱 I’m learning **Rust**, **Bayesian machine learning**, and **transfer learning for PRS**.
 * 👯 I’m open to collaborating on **bioinformatics**, **statistical genetics**, and **data visualization** projects.
 * 💬 Ask me about: `Nextflow`, `PLINK`, `Python`, `R`, `GWAS`, and reproducible pipelines.
-* 📫 How to reach me: `rohit@example.com` — or use the links below.
+* 📫 How to reach me: `rohitbar84.rb@gmail.com` — or use the links below.
 
 ---
 
